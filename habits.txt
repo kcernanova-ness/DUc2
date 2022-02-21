@@ -10,3 +10,5 @@
 5.Pri práci programátora je veľmi dôležite neustále vzdelávanie, aby sa stále vedel posúvať vpred, riešiť rôzne problémy,...
 6.Pri programátorskej práci je veľmi dobré spolupracovať so svojimi kolegami, najmä ak sa vyskytne problém v kóde, ktorý dlhšiu dobu neviem vyriešiť.
   Pohľad iného kolegu problém vyrieši oveľa rýchlejšie ako, keby sa nad tým mal človek trápiť sám. Spoluprácou s kolegami taktiež nadobúdame dôležité skúsenosti.
+7.Tento zvyk je úzko spätý so zvykom č.4 - potreba nájsť si čas a priestor byť sám, vedieť sa sústrediť a pracovať. 
+  Napriek tomu si myslím, že ak človek pracuje vo väčšej firme s mnohými kolegami, s agilnou metodológiou, nejde už tak veľmi o individuálnu prácu.
