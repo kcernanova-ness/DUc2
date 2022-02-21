@@ -2,3 +2,6 @@
   Dôležité je dodržiavať istú ergonómiu tela pri sedení za počítačom, časté robenie prestávok s jednoduchou fyzickou aktivitou.
   Taktiež je veľmi dôležité dodržiavať pitný režim, chrániť si oči okuliarmi s filtrom proti modrému svetlu a samozrejmosťou 
   je dopriať regeneráciu celému organizmu kvalitným spánkom.
+2.Je dôležité pracovať na celkovom produkte. 
+  Nemôžeme sa zaseknúť a drobnej chybe a donekonečna ju ladiť, alebo stále upravovať jeden kúsok kódu len preto, aby bol skvele čitateľný.
+  V tom prípade by celkový produkt nikdy nebol dokončený a posunutý užívateľom.
