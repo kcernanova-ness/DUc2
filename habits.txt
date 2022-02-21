@@ -7,3 +7,4 @@
   V tom prípade by celkový produkt nikdy nebol dokončený a posunutý užívateľom.
 3.Programátor by mal písať kód čo najjednoduchšie a najzrozumiteľnejšie, aby jeho kód v budúcnosti vedeli pochopiť a upraviť aj jeho kolegovia.
 4.Programátor by mal mať vhodné podmienky pre svoju prácu. Mal by bez rozptyľovania z okolia vedieť sústredene pracovať na svojom produkte dlhší časový úsek.
+5.Pri práci programátora je veľmi dôležite neustále vzdelávanie, aby sa stále vedel posúvať vpred, riešiť rôzne problémy,...
