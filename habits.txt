@@ -5,3 +5,4 @@
 2.Je dôležité pracovať na celkovom produkte. 
   Nemôžeme sa zaseknúť a drobnej chybe a donekonečna ju ladiť, alebo stále upravovať jeden kúsok kódu len preto, aby bol skvele čitateľný.
   V tom prípade by celkový produkt nikdy nebol dokončený a posunutý užívateľom.
+3.Programátor by mal písať kód čo najjednoduchšie a najzrozumiteľnejšie, aby jeho kód v budúcnosti vedeli pochopiť a upraviť aj jeho kolegovia.
