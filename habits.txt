@@ -8,3 +8,5 @@
 3.Programátor by mal písať kód čo najjednoduchšie a najzrozumiteľnejšie, aby jeho kód v budúcnosti vedeli pochopiť a upraviť aj jeho kolegovia.
 4.Programátor by mal mať vhodné podmienky pre svoju prácu. Mal by bez rozptyľovania z okolia vedieť sústredene pracovať na svojom produkte dlhší časový úsek.
 5.Pri práci programátora je veľmi dôležite neustále vzdelávanie, aby sa stále vedel posúvať vpred, riešiť rôzne problémy,...
+6.Pri programátorskej práci je veľmi dobré spolupracovať so svojimi kolegami, najmä ak sa vyskytne problém v kóde, ktorý dlhšiu dobu neviem vyriešiť.
+  Pohľad iného kolegu problém vyrieši oveľa rýchlejšie ako, keby sa nad tým mal človek trápiť sám. Spoluprácou s kolegami taktiež nadobúdame dôležité skúsenosti.
